@@ -3,7 +3,7 @@ name = "SigmaOS-moreutils"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "moreutils component"
+description = "Moreutils"
 upstream = []
 
 [contract]
